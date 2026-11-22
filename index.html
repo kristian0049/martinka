@@ -110,7 +110,14 @@
     .hero .wrap,.faq .wrap,.cta-box,footer .wrap{grid-template-columns:1fr}
     .hero h1{font-size:38px}
     .features .grid{grid-template-columns:1fr}.features .card{grid-column:auto!important}
-    .why .grid{grid-template-columns:1fr 1fr}
+    .why .grid{grid-template-columns:1fr;gap:14px;margin-top:28px}
+    .why .card{display:grid;grid-template-columns:44px 1fr;column-gap:16px;padding:22px}
+    .why .icon{grid-row:span 2;margin-bottom:0}
+    .why h3{overflow-wrap:anywhere}
+    /* на мобилно: секция 01 (Значение) идва преди секция 02 (Елементи) */
+    body{display:flex;flex-direction:column}
+    #why{order:1}
+    .features,#why ~ *{order:2}
     .track{justify-content:flex-start;overflow-x:auto;padding-bottom:8px}
     .cta-box .txt{padding:36px}
   }

@@ -1,12 +1,12 @@
 # Building the site in Google Sites
 
-Google Sites has no import or API, so the site is built by hand in the editor. This guide and the files in this folder cover every step. Open `preview.html` in a browser first to see what you're aiming for.
+Google Sites has no import or API, so the site is built by hand in the editor. This guide and the files in this folder cover every step. Open `index.html` in a browser first to see what you're aiming for.
 
 ## What's in this folder
 
 | File | Use |
 |---|---|
-| `preview.html` | How the finished homepage should look (open in a browser) |
+| `index.html` | How the finished homepage should look (open in a browser) |
 | `logo.png` | Site logo (the MK circle, transparent corners) |
 | `favicon.png` | Browser-tab icon |
 | `backgrounds/*.png` | Solid section backgrounds in the presentation's colors |
