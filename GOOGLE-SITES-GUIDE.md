@@ -109,7 +109,7 @@ Use a **two-column layout**:
 - **Right column, image:** `images/aya-palette.png`
 
 ### Footer
-Hover the bottom of the page and click **Add footer**. Text: `Курсова работа на Мартина Петрова Киркова, 21а група · Дизайн и печатни комуникации · © 2026`. To match the wireframe, also add the logo via Insert → Image.
+Hover the bottom of the page and click **Add footer**. Text: `Курсова работа на Мартина Киркова, 21а група · Дизайн и печатни комуникации · © 2026`. To match the wireframe, also add the logo via Insert → Image.
 
 ## 4. Inner pages (optional, using the rest of the slides)
 - **Елементи**: slides 5–11: types of logo, logo principles, color psychology, building a palette, typography (`images/serif.jpg`, `images/sans-serif.png`).
